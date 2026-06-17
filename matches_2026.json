@@ -1,0 +1,1315 @@
+{
+  "groupsData": [
+    {
+      "groupIndex": 0,
+      "groupName": "A",
+      "teams": [
+        "НИЖНИЕ КИГИ",
+        "АТАВДЫ",
+        "ТАШТУЙ",
+        "КУТУЕВО"
+      ],
+      "matches": [
+        {
+          "team1Idx": 0,
+          "team2Idx": 1,
+          "score1": 1,
+          "score2": 1,
+          "matchId": "A_0_1",
+          "date": "10 июля",
+          "time": "09:00",
+          "field": "1",
+          "orderId": 1
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "A_0_2",
+          "date": "10 июля",
+          "time": "12:20",
+          "field": "1",
+          "orderId": 25
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "A_0_3",
+          "date": "10 июля",
+          "time": "15:40",
+          "field": "1",
+          "orderId": 49
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "A_1_2",
+          "date": "10 июля",
+          "time": "17:20",
+          "field": "1",
+          "orderId": 61
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "A_1_3",
+          "date": "10 июля",
+          "time": "14:00",
+          "field": "1",
+          "orderId": 37
+        },
+        {
+          "team1Idx": 2,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "A_2_3",
+          "date": "10 июля",
+          "time": "10:40",
+          "field": "1",
+          "orderId": 13
+        }
+      ]
+    },
+    {
+      "groupIndex": 1,
+      "groupName": "B",
+      "teams": [
+        "ЮЛУК",
+        "КИЛЬМЯК",
+        "ИШБУЛДИНО",
+        "МАВЛЮТОВА"
+      ],
+      "matches": [
+        {
+          "team1Idx": 0,
+          "team2Idx": 1,
+          "score1": null,
+          "score2": null,
+          "matchId": "B_0_1",
+          "date": "10 июля",
+          "time": "09:00",
+          "field": "2",
+          "orderId": 2
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "B_0_2",
+          "date": "10 июля",
+          "time": "12:20",
+          "field": "2",
+          "orderId": 26
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "B_0_3",
+          "date": "10 июля",
+          "time": "15:40",
+          "field": "2",
+          "orderId": 50
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "B_1_2",
+          "date": "10 июля",
+          "time": "17:20",
+          "field": "2",
+          "orderId": 62
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "B_1_3",
+          "date": "10 июля",
+          "time": "14:00",
+          "field": "2",
+          "orderId": 38
+        },
+        {
+          "team1Idx": 2,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "B_2_3",
+          "date": "10 июля",
+          "time": "10:40",
+          "field": "2",
+          "orderId": 14
+        }
+      ]
+    },
+    {
+      "groupIndex": 2,
+      "groupName": "C",
+      "teams": [
+        "БАЙГАЗИНА",
+        "УРАЗОВО",
+        "ЦЕЛИННОЕ",
+        "СТАРОАРЗАМАТОВО"
+      ],
+      "matches": [
+        {
+          "team1Idx": 0,
+          "team2Idx": 1,
+          "score1": null,
+          "score2": null,
+          "matchId": "C_0_1",
+          "date": "10 июля",
+          "time": "09:00",
+          "field": "3",
+          "orderId": 3
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "C_0_2",
+          "date": "10 июля",
+          "time": "12:20",
+          "field": "3",
+          "orderId": 27
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "C_0_3",
+          "date": "10 июля",
+          "time": "15:40",
+          "field": "3",
+          "orderId": 51
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "C_1_2",
+          "date": "10 июля",
+          "time": "17:20",
+          "field": "3",
+          "orderId": 63
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "C_1_3",
+          "date": "10 июля",
+          "time": "14:00",
+          "field": "3",
+          "orderId": 39
+        },
+        {
+          "team1Idx": 2,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "C_2_3",
+          "date": "10 июля",
+          "time": "10:40",
+          "field": "3",
+          "orderId": 15
+        }
+      ]
+    },
+    {
+      "groupIndex": 3,
+      "groupName": "D",
+      "teams": [
+        "ПАВЛОДАР",
+        "АСКАРОВО",
+        "УРАЛЬСК",
+        "БУЗДЯК"
+      ],
+      "matches": [
+        {
+          "team1Idx": 0,
+          "team2Idx": 1,
+          "score1": null,
+          "score2": null,
+          "matchId": "D_0_1",
+          "date": "10 июля",
+          "time": "09:25",
+          "field": "1",
+          "orderId": 4
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "D_0_2",
+          "date": "10 июля",
+          "time": "12:45",
+          "field": "1",
+          "orderId": 28
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "D_0_3",
+          "date": "10 июля",
+          "time": "16:05",
+          "field": "1",
+          "orderId": 52
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "D_1_2",
+          "date": "10 июля",
+          "time": "17:45",
+          "field": "1",
+          "orderId": 64
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "D_1_3",
+          "date": "10 июля",
+          "time": "14:25",
+          "field": "1",
+          "orderId": 40
+        },
+        {
+          "team1Idx": 2,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "D_2_3",
+          "date": "10 июля",
+          "time": "11:05",
+          "field": "1",
+          "orderId": 16
+        }
+      ]
+    },
+    {
+      "groupIndex": 4,
+      "groupName": "E",
+      "teams": [
+        "АМАНГИЛЬДИНО",
+        "АРГАЯШ",
+        "ТАШТИМЕРОВО",
+        "БОЛЬШИЕ МОТЫКАЛЫ"
+      ],
+      "matches": [
+        {
+          "team1Idx": 0,
+          "team2Idx": 1,
+          "score1": null,
+          "score2": null,
+          "matchId": "E_0_1",
+          "date": "10 июля",
+          "time": "09:25",
+          "field": "2",
+          "orderId": 5
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "E_0_2",
+          "date": "10 июля",
+          "time": "12:45",
+          "field": "2",
+          "orderId": 29
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "E_0_3",
+          "date": "10 июля",
+          "time": "16:05",
+          "field": "2",
+          "orderId": 53
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "E_1_2",
+          "date": "10 июля",
+          "time": "17:45",
+          "field": "2",
+          "orderId": 65
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "E_1_3",
+          "date": "10 июля",
+          "time": "14:25",
+          "field": "2",
+          "orderId": 41
+        },
+        {
+          "team1Idx": 2,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "E_2_3",
+          "date": "10 июля",
+          "time": "11:05",
+          "field": "2",
+          "orderId": 17
+        }
+      ]
+    },
+    {
+      "groupIndex": 5,
+      "groupName": "F",
+      "teams": [
+        "БОЛЬШАЯ ЧЕРНИГОВКА",
+        "КУБАГУШЕВО",
+        "ЯЗЫКОВО",
+        "МИХАЙЛОВКА"
+      ],
+      "matches": [
+        {
+          "team1Idx": 0,
+          "team2Idx": 1,
+          "score1": null,
+          "score2": null,
+          "matchId": "F_0_1",
+          "date": "10 июля",
+          "time": "09:25",
+          "field": "3",
+          "orderId": 6
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "F_0_2",
+          "date": "10 июля",
+          "time": "12:45",
+          "field": "3",
+          "orderId": 30
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "F_0_3",
+          "date": "10 июля",
+          "time": "16:05",
+          "field": "3",
+          "orderId": 54
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "F_1_2",
+          "date": "10 июля",
+          "time": "17:45",
+          "field": "3",
+          "orderId": 66
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "F_1_3",
+          "date": "10 июля",
+          "time": "14:25",
+          "field": "3",
+          "orderId": 42
+        },
+        {
+          "team1Idx": 2,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "F_2_3",
+          "date": "10 июля",
+          "time": "11:05",
+          "field": "3",
+          "orderId": 18
+        }
+      ]
+    },
+    {
+      "groupIndex": 6,
+      "groupName": "G",
+      "teams": [
+        "КУТУЕВО-2",
+        "СТАРОСУБХАНГУЛОВО",
+        "МЕЖОЗЕРНЫЙ",
+        "ФИЛИМОНОВО"
+      ],
+      "matches": [
+        {
+          "team1Idx": 0,
+          "team2Idx": 1,
+          "score1": null,
+          "score2": null,
+          "matchId": "G_0_1",
+          "date": "10 июля",
+          "time": "09:50",
+          "field": "1",
+          "orderId": 7
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "G_0_2",
+          "date": "10 июля",
+          "time": "13:10",
+          "field": "1",
+          "orderId": 31
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "G_0_3",
+          "date": "10 июля",
+          "time": "16:30",
+          "field": "1",
+          "orderId": 55
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "G_1_2",
+          "date": "10 июля",
+          "time": "18:10",
+          "field": "1",
+          "orderId": 67
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "G_1_3",
+          "date": "10 июля",
+          "time": "14:50",
+          "field": "1",
+          "orderId": 43
+        },
+        {
+          "team1Idx": 2,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "G_2_3",
+          "date": "10 июля",
+          "time": "11:30",
+          "field": "1",
+          "orderId": 19
+        }
+      ]
+    },
+    {
+      "groupIndex": 7,
+      "groupName": "H",
+      "teams": [
+        "ЕЛЫШЕВО",
+        "ЦЕЛИННЫЙ",
+        "КУНДРАВЫ",
+        "КРАСНАЯ БАШКИРИЯ"
+      ],
+      "matches": [
+        {
+          "team1Idx": 0,
+          "team2Idx": 1,
+          "score1": null,
+          "score2": null,
+          "matchId": "H_0_1",
+          "date": "10 июля",
+          "time": "09:50",
+          "field": "2",
+          "orderId": 8
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "H_0_2",
+          "date": "10 июля",
+          "time": "13:10",
+          "field": "2",
+          "orderId": 32
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "H_0_3",
+          "date": "10 июля",
+          "time": "16:30",
+          "field": "2",
+          "orderId": 56
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "H_1_2",
+          "date": "10 июля",
+          "time": "18:10",
+          "field": "2",
+          "orderId": 68
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "H_1_3",
+          "date": "10 июля",
+          "time": "14:50",
+          "field": "2",
+          "orderId": 44
+        },
+        {
+          "team1Idx": 2,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "H_2_3",
+          "date": "10 июля",
+          "time": "11:30",
+          "field": "2",
+          "orderId": 20
+        }
+      ]
+    },
+    {
+      "groupIndex": 8,
+      "groupName": "I",
+      "teams": [
+        "БУРАЕВО",
+        "ИШАЛИНО",
+        "РАЕВСКИЙ",
+        "СУРАМАНОВО"
+      ],
+      "matches": [
+        {
+          "team1Idx": 0,
+          "team2Idx": 1,
+          "score1": null,
+          "score2": null,
+          "matchId": "I_0_1",
+          "date": "10 июля",
+          "time": "09:50",
+          "field": "3",
+          "orderId": 9
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "I_0_2",
+          "date": "10 июля",
+          "time": "13:10",
+          "field": "3",
+          "orderId": 33
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "I_0_3",
+          "date": "10 июля",
+          "time": "16:30",
+          "field": "3",
+          "orderId": 57
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "I_1_2",
+          "date": "10 июля",
+          "time": "18:10",
+          "field": "3",
+          "orderId": 69
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "I_1_3",
+          "date": "10 июля",
+          "time": "14:50",
+          "field": "3",
+          "orderId": 45
+        },
+        {
+          "team1Idx": 2,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "I_2_3",
+          "date": "10 июля",
+          "time": "11:30",
+          "field": "3",
+          "orderId": 21
+        }
+      ]
+    },
+    {
+      "groupIndex": 9,
+      "groupName": "J",
+      "teams": [
+        "БУРИБАЙ",
+        "ИНЗЕР",
+        "ПРИМОРСКИЙ",
+        "НОВОМУСЯТОВО"
+      ],
+      "matches": [
+        {
+          "team1Idx": 0,
+          "team2Idx": 1,
+          "score1": null,
+          "score2": null,
+          "matchId": "J_0_1",
+          "date": "10 июля",
+          "time": "10:15",
+          "field": "1",
+          "orderId": 10
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "J_0_2",
+          "date": "10 июля",
+          "time": "13:35",
+          "field": "1",
+          "orderId": 34
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "J_0_3",
+          "date": "10 июля",
+          "time": "16:55",
+          "field": "1",
+          "orderId": 58
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "J_1_2",
+          "date": "10 июля",
+          "time": "18:35",
+          "field": "1",
+          "orderId": 70
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "J_1_3",
+          "date": "10 июля",
+          "time": "15:15",
+          "field": "1",
+          "orderId": 46
+        },
+        {
+          "team1Idx": 2,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "J_2_3",
+          "date": "10 июля",
+          "time": "11:55",
+          "field": "1",
+          "orderId": 22
+        }
+      ]
+    },
+    {
+      "groupIndex": 10,
+      "groupName": "K",
+      "teams": [
+        "АРАСЛАНОВА",
+        "КАБАКУШ",
+        "АКЪЯР",
+        "КРАСНОУСОЛЬСКИЙ"
+      ],
+      "matches": [
+        {
+          "team1Idx": 0,
+          "team2Idx": 1,
+          "score1": null,
+          "score2": null,
+          "matchId": "K_0_1",
+          "date": "10 июля",
+          "time": "10:15",
+          "field": "2",
+          "orderId": 11
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "K_0_2",
+          "date": "10 июля",
+          "time": "13:35",
+          "field": "2",
+          "orderId": 35
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "K_0_3",
+          "date": "10 июля",
+          "time": "16:55",
+          "field": "2",
+          "orderId": 59
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "K_1_2",
+          "date": "10 июля",
+          "time": "18:35",
+          "field": "2",
+          "orderId": 71
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "K_1_3",
+          "date": "10 июля",
+          "time": "15:15",
+          "field": "2",
+          "orderId": 47
+        },
+        {
+          "team1Idx": 2,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "K_2_3",
+          "date": "10 июля",
+          "time": "11:55",
+          "field": "2",
+          "orderId": 23
+        }
+      ]
+    },
+    {
+      "groupIndex": 11,
+      "groupName": "L",
+      "teams": [
+        "БЕЛОЕ ОЗЕРО",
+        "СОВХОЗ ТАТАРСТАН",
+        "ИШМЕКЕЕВО",
+        "НИЖНЕСОРОКИНО"
+      ],
+      "matches": [
+        {
+          "team1Idx": 0,
+          "team2Idx": 1,
+          "score1": null,
+          "score2": null,
+          "matchId": "L_0_1",
+          "date": "10 июля",
+          "time": "10:15",
+          "field": "3",
+          "orderId": 12
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "L_0_2",
+          "date": "10 июля",
+          "time": "13:35",
+          "field": "3",
+          "orderId": 36
+        },
+        {
+          "team1Idx": 0,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "L_0_3",
+          "date": "10 июля",
+          "time": "16:55",
+          "field": "3",
+          "orderId": 60
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 2,
+          "score1": null,
+          "score2": null,
+          "matchId": "L_1_2",
+          "date": "10 июля",
+          "time": "18:35",
+          "field": "3",
+          "orderId": 72
+        },
+        {
+          "team1Idx": 1,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "L_1_3",
+          "date": "10 июля",
+          "time": "15:15",
+          "field": "3",
+          "orderId": 48
+        },
+        {
+          "team1Idx": 2,
+          "team2Idx": 3,
+          "score1": null,
+          "score2": null,
+          "matchId": "L_2_3",
+          "date": "10 июля",
+          "time": "11:55",
+          "field": "3",
+          "orderId": 24
+        }
+      ]
+    }
+  ],
+  "goalsData": [
+    {
+      "id": 1781689248228.4705,
+      "matchId": "A_0_1",
+      "teamName": "НИЖНИЕ КИГИ",
+      "scorer": "Фазлыев Флюр",
+      "assistant": null,
+      "minute": 7
+    },
+    {
+      "id": 1781689253407.242,
+      "matchId": "A_0_1",
+      "teamName": "АТАВДЫ",
+      "scorer": "Ишбулатов Талгат",
+      "assistant": "Мингажев Нур",
+      "minute": 18
+    }
+  ],
+  "playoffData": {
+    "r32_1": {
+      "t1": "НИЖНИЕ КИГИ",
+      "t2": "КУНДРАВЫ",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r32_2": {
+      "t1": "АТАВДЫ",
+      "t2": "ЦЕЛИННЫЙ",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r32_3": {
+      "t1": "АМАНГИЛЬДИНО",
+      "t2": "УРАЛЬСК",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r32_4": {
+      "t1": "БУРАЕВО",
+      "t2": "СОВХОЗ ТАТАРСТАН",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r32_5": {
+      "t1": "БАЙГАЗИНА",
+      "t2": "ЯЗЫКОВО",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r32_6": {
+      "t1": "УРАЗОВО",
+      "t2": "КУБАГУШЕВО",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r32_7": {
+      "t1": "КУТУЕВО-2",
+      "t2": "ИШБУЛДИНО",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r32_8": {
+      "t1": "АРАСЛАНОВА",
+      "t2": "ИНЗЕР",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r32_9": {
+      "t1": "ЮЛУК",
+      "t2": "МЕЖОЗЕРНЫЙ",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r32_10": {
+      "t1": "КИЛЬМЯК",
+      "t2": "СТАРОСУБХАНГУЛОВО",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r32_11": {
+      "t1": "БОЛЬШАЯ ЧЕРНИГОВКА",
+      "t2": "ЦЕЛИННОЕ",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r32_12": {
+      "t1": "БУРИБАЙ",
+      "t2": "КАБАКУШ",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r32_13": {
+      "t1": "ПАВЛОДАР",
+      "t2": "ТАШТИМЕРОВО",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r32_14": {
+      "t1": "АСКАРОВО",
+      "t2": "АРГАЯШ",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r32_15": {
+      "t1": "ЕЛЫШЕВО",
+      "t2": "ТАШТУЙ",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r32_16": {
+      "t1": "БЕЛОЕ ОЗЕРО",
+      "t2": "ИШАЛИНО",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r16_1": {
+      "t1": "ПОБЕДИТЕЛЬ 1/16 #1",
+      "t2": "ПОБЕДИТЕЛЬ 1/16 #2",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r16_2": {
+      "t1": "ПОБЕДИТЕЛЬ 1/16 #3",
+      "t2": "ПОБЕДИТЕЛЬ 1/16 #4",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r16_3": {
+      "t1": "ПОБЕДИТЕЛЬ 1/16 #5",
+      "t2": "ПОБЕДИТЕЛЬ 1/16 #6",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r16_4": {
+      "t1": "ПОБЕДИТЕЛЬ 1/16 #7",
+      "t2": "ПОБЕДИТЕЛЬ 1/16 #8",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r16_5": {
+      "t1": "ПОБЕДИТЕЛЬ 1/16 #9",
+      "t2": "ПОБЕДИТЕЛЬ 1/16 #10",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r16_6": {
+      "t1": "ПОБЕДИТЕЛЬ 1/16 #11",
+      "t2": "ПОБЕДИТЕЛЬ 1/16 #12",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r16_7": {
+      "t1": "ПОБЕДИТЕЛЬ 1/16 #13",
+      "t2": "ПОБЕДИТЕЛЬ 1/16 #14",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r16_8": {
+      "t1": "ПОБЕДИТЕЛЬ 1/16 #15",
+      "t2": "ПОБЕДИТЕЛЬ 1/16 #16",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r4_1": {
+      "t1": "ПОБЕДИТЕЛЬ 1/8 #1",
+      "t2": "ПОБЕДИТЕЛЬ 1/8 #2",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r4_2": {
+      "t1": "ПОБЕДИТЕЛЬ 1/8 #3",
+      "t2": "ПОБЕДИТЕЛЬ 1/8 #4",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r4_3": {
+      "t1": "ПОБЕДИТЕЛЬ 1/8 #5",
+      "t2": "ПОБЕДИТЕЛЬ 1/8 #6",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r4_4": {
+      "t1": "ПОБЕДИТЕЛЬ 1/8 #7",
+      "t2": "ПОБЕДИТЕЛЬ 1/8 #8",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r2_1": {
+      "t1": "ПОБЕДИТЕЛЬ 1/4 #1",
+      "t2": "ПОБЕДИТЕЛЬ 1/4 #2",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "r2_2": {
+      "t1": "ПОБЕДИТЕЛЬ 1/4 #3",
+      "t2": "ПОБЕДИТЕЛЬ 1/4 #4",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "final_match": {
+      "t1": "ПОБЕДИТЕЛЬ 1/2 #1",
+      "t2": "ПОБЕДИТЕЛЬ 1/2 #2",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    },
+    "bronze_match": {
+      "t1": "ПРОИГРАВШИЙ 1/2 #1",
+      "t2": "ПРОИГРАВШИЙ 1/2 #2",
+      "s1": null,
+      "s2": null,
+      "p1": null,
+      "p2": null,
+      "date": "11 июля",
+      "time": "10:00",
+      "field": "Поле 1"
+    }
+  },
+  "tieBreakersGroups": {},
+  "tieBreakersGlobal": {},
+  "lastUpdateTime": "17 июня 14:40"
+}
