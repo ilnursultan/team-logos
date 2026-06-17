@@ -68,8 +68,8 @@
         {
           "team1Idx": 2,
           "team2Idx": 3,
-          "score1": null,
-          "score2": null,
+          "score1": 1,
+          "score2": 1,
           "matchId": "A_2_3",
           "date": "10 июля",
           "time": "10:40",
@@ -984,7 +984,7 @@
       "field": "2"
     },
     "r32_2": {
-      "t1": "АТАВДЫ",
+      "t1": "ТАШТУЙ",
       "t2": "ЦЕЛИННЫЙ",
       "s1": null,
       "s2": null,
@@ -1128,7 +1128,7 @@
     },
     "r32_15": {
       "t1": "ЕЛЫШЕВО",
-      "t2": "ТАШТУЙ",
+      "t2": "КУТУЕВО",
       "s1": null,
       "s2": null,
       "p1": null,
@@ -1327,5 +1327,5 @@
   },
   "tieBreakersGroups": {},
   "tieBreakersGlobal": {},
-  "lastUpdateTime": "17 июня 15:18"
+  "lastUpdateTime": "17 июня 15:19"
 }
